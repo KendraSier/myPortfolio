@@ -1,7 +1,7 @@
 title: My Portfolio
 name: Glenn Evans
 email: gevans@stclaircollege.ca
-baseurl: "/myPortfolio"
+baseurl: "/myportfolio"
 
 collections:
   design:
